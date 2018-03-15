@@ -29,6 +29,7 @@ Train Embeddings and Reinforcement Learning
 
 3. Run `python embedding/accuracy.py` if you would like to directly use trained embeddings for ranking stocks without using reinforcement learning.
 
+Raw Datasets and Trained Embeddings
 =====
 Due to copyright issues, the raw datasets and trained embeddings are not open. Email me (qiliu@u.nus.edu) if you would like to have some samples.
 
